@@ -1,0 +1,7 @@
+{
+  "success": true,
+  "data": {
+    "results": [{"id": "lead-1", "firstName": "Kabeer", "lastName": "Chopra", "linkedinUrl": "https://www.linkedin.com/in/kabeer-chopra", "headline": "Co-founder & CTO", "jobTitle": "Co-founder & CTO", "companyName": "Burrow"}],
+    "pagination": {"page": 1, "pageSize": 100, "totalResults": 2, "totalPages": 2, "hasMore": true, "searchedTotalResult": 2}
+  }
+}
