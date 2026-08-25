@@ -1,0 +1,7 @@
+{
+  "success": true,
+  "data": {
+    "status": "completed",
+    "results": {"revealed": [{"id": "lead-1", "firstName": "Eurie", "lastName": "Kim", "jobTitle": "Board Observer", "companyName": "Monarch", "emailAddress": "eurie@example.com", "phone": null, "cellphone": "+1 415-677-1441", "linkedinUrl": "https://www.linkedin.com/in/euriekim"}]}
+  }
+}

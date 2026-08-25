@@ -1,0 +1,23 @@
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+htmlcov/
+.venv/
+venv/
+
+# Runtime state and generated artifacts
+output/
+.baker-enrichment/
+*.log
+
+# Editor and OS files
+.DS_Store
+.idea/
+.vscode/

@@ -1,0 +1,7 @@
+{
+  "success": true,
+  "data": {
+    "results": [{"id": "lead-2", "firstName": "Kabeer", "lastName": "Chopra", "linkedinUrl": "https://www.linkedin.com/in/kabeer-chopra-a6850b109", "jobTitle": "Chief Executive Officer", "companyName": "Lending Consortium Inc"}],
+    "pagination": {"page": 2, "pageSize": 100, "totalResults": 2, "totalPages": 2, "hasMore": false, "searchedTotalResult": 2}
+  }
+}

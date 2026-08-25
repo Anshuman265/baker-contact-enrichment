@@ -1,0 +1,23 @@
+{
+  "success": true,
+  "data": {
+    "id": "urn:li:person:DgE_61zIs3q",
+    "displayName": "Ada Lovelace",
+    "firstName": "Ada",
+    "lastName": "Lovelace",
+    "headline": "Mathematician",
+    "summary": "First programmer",
+    "companyName": "Analytical Engine",
+    "location": "London",
+    "photoUrl": "https://example.test/photo",
+    "profileUrl": "https://linkedin.com/in/ada",
+    "reportProfileUrl": "https://example.test/report",
+    "connectionCount": 500,
+    "isConnectionCountObfuscated": false,
+    "skills": ["Mathematics", "Programming"],
+    "locale": {"country": "GB", "language": "en"},
+    "schools": {"values": []},
+    "positions": {"values": []}
+  },
+  "meta": {"credits": 1}
+}
